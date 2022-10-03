@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#hello {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0px;
+}
+
+
+img {
+    width: 10%;
+    height: 20%;
+}
+
+.menu li{
+    display: flex;
+    text-align: center;
+    float: right;
+    margin-right: 10px;
+    padding: 0 4px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    text-decoration:  green underline 3px;
+}
+
+.cardi {
+    color: white;
+    text-decoration: white underline 2px;
+}
+
+h4 {
+    color: rgb(83, 163, 83);
+}
+
+h5 {
+    color: white;
+    font-size: 18px;
+}
+
+div {
+    text-align: center;
+}
+
+#iconG {
+    display: flex;
+    justify-content: right;
+    padding-right: 400px;
+    float: left;
+    width: 10%;
+    height: 10%;
+}
+
+#centerImage {
+    width: 900px;
+    height: 400px;
+    display: block;
+    margin: 0px auto;
+    opacity: .9;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#final {
+    background-color:rgb(83, 163, 83);
+    margin-left: 100px;
+    margin-right: 100px;
+    display: grid;
+}
+
+#papi {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pepo {
+    margin-left: 100px;
+}
